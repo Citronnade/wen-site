@@ -1,0 +1,32 @@
+
+<html>
+  <title> Welcome to my webpage! </title>
+  <body class="light-blue accent-1">
+    <ul id="slide-out" class="side-nav fixed blue-grey lighten-2">
+      <li><a href="http://lisa.stuy.edu/~wen.zeng/homepage.html">About Me</a></li>
+      <li><a href="http://lisa.stuy.edu/~wen.zeng/homepage2.html">My Teacher</a></li>
+      <li><a href="http://lisa.stuy.edu/~wen.zeng/Citations.html">Citations</a></li>
+    </ul>
+
+    <main>
+      <div class="container">
+	
+	<div class="row">
+
+	  <div class="col s12">
+	    <ul>
+	   <li><a href="http://www.w3schools.com/tags/default.asp">w3schools</a> - used for help with tables, which are used for the layout for the webpages</li>
+	   </ul>
+	  </div>
+	</div>
+      </div>
+    </main>
+    <footer class="page-footer light-blue accent-2">
+      <div class="container">
+	<div class="col s12">
+	</div>
+      </div>
+      
+    </footer>
+  </body>
+</html>

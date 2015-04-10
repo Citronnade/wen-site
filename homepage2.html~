@@ -1,0 +1,61 @@
+
+<html>
+ <title> Welcome to my webpage! </title>
+   <body bgcolor="#485053" link="white" vlink="white" alink="white">
+    <table width="100%" cellspacing="0">
+	 <tr width="100%">
+	  <td bgcolor="#38A3E2" border="0" height="60"><font size="10" face="arial" color="white"><b><i>&nbspMy Webpage</i></b></font></td>
+	 </tr>
+	</table>
+	  <table width="100%" cellspacing="0">
+	   <tr bgcolor="#393E42" height="60">
+	    <td width="33%"><font size="5" face="arial" color="white">|&nbsp<a href="http://lisa.stuy.edu/~wen.zeng/homepage.html">About Me</a></font></td>
+	    <td width="33%"><font size="5" face="arial" color="white">|&nbsp<a href="http://lisa.stuy.edu/~wen.zeng/homepage2.html">My Teacher</a></font></td> 
+	    <td width="33%"><font size="5" face="arial" color="white">|&nbsp<a href="http://lisa.stuy.edu/~wen.zeng/Citations.html">Citations</a></font></td>
+	   </tr>
+	  </table>
+	  <table width="100%" cellspacing="0">
+	   <tr>
+	    <td bgcolor="#DEDEDE">
+<br>
+		<font color="#757575" size="6"><b>&nbspMy Teacher</b></font>
+<br>
+<br>
+		<font color="#757575" size="5">&nbsp<img src="http://www.micromind.com/peter2.jpg" alt="Mr. Brooks">
+<br>
+<br>
+		&nbsp&nbsp&nbsp <font size="5.5"><b> Mr. Brooks </b></font>
+<br>
+		&nbsp&nbsp&nbsp He has a beard.
+<br>
+		&nbsp&nbsp&nbsp He has a moustache.
+<br>
+		&nbsp&nbsp&nbsp He has a nice forehead.
+<br>
+		&nbsp&nbsp&nbsp He is hilarious.
+<br>
+		&nbsp&nbsp&nbsp He wears suspenders.
+<br>
+		&nbsp&nbsp&nbsp He is an excellent teacher.
+<br>
+		&nbsp&nbsp&nbsp He is awesome.
+		&nbsp&nbsp&nbsp <marquee>He hates the marquee tag.</marquee>
+<br>
+		&nbsp&nbsp&nbsp <blink> He hates the blink tag. (Aw, it doesn't work anymore.) </blink>
+<br>
+		&nbsp&nbsp&nbsp <font face="Comic Sans"> He likes comic sans. </font> (No difference, huh...)
+<br>
+		&nbsp&nbsp&nbsp He is Peter Brooks.
+<br>
+		&nbsp&nbsp&nbsp All hail the almighty Brooks,
+<br>
+		&nbsp&nbsp&nbsp Our glorious leader.
+<br>
+<br>
+		&nbsp<img src="http://photos1.meetupstatic.com/photos/member/8/d/7/4/member_64896212.jpeg" alt="SleepingBrooks">
+<br>
+<br>
+		
+  </table>
+ </body>
+</html>
