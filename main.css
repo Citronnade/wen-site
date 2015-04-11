@@ -1,14 +1,3 @@
-li {
-    margin-left: 1.5em;
-}
-
-p, li {
-    color: #212121;
-}
-
-a:visited {
-    color: #00695c;
-}
 
 body {
     display: flex;
@@ -18,4 +7,18 @@ body {
 
 main {
     flex: 1 0 auto;
+}
+
+div.splashscreen {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	overflow: hidden;
+	h6 {
+		text-align: center;
+	}
+}
+
+div.container {
+	position: relative;
 }
