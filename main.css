@@ -1,38 +1,62 @@
-* {
-    padding: 0px;
-    margin: 0px;
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
-html, body {
-    height: 100%;
-    font-family: sans-serif;
+main {
+    flex: 1 0 auto;
 }
 
-.navbar, .container{
-    padding-top: 1.5em;
-}
-.navbar {
-    background-color: #4db6ac;
-    position: fixed;
-    width: 10%;
-    height: 100%;
+div.splashscreen {
+    margin: 0;
+    padding: 0;
+    height: 95vh;
+    overflow: hidden;
+    width: 100%;
+        background: url("http://upload.wikimedia.org/wikipedia/commons/e/ed/Scratch_cat_large.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding-top: 5vh;
 }
 
-.container {
-    background-color: #7986cb;
+
+div.container {
     position: relative;
-    left: 10%;
-    width: 90%;
-    padding-left: 0.5em;
-    height:100%;
-    min-height:100%;
+    min-height: 100%;
 }
 
-li {
-    margin-left: 1.5em;
+
+div.splashtext, .splashtext2{
+    min-height: 15vh;
+    width: 100%;
+    /*
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+
+    justify-content: center;
+    */
+    text-align: center;
 }
 
-.navbar h2 {
+div.splashtext2{
+    min-height: 5vh;
+}
+.splashtext h5{ /* never do css like this please ohgod */
     margin-top: 1em;
-    margin-bottom: 1em;
+    font-size: 1000%;
+    line-height: 100%;
+}
+
+.games span {
+    text-align: center;
 }
