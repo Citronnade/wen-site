@@ -15,18 +15,11 @@ div.splashscreen {
     height: 95vh;
     overflow: hidden;
     width: 100%;
-        background: url("http://upload.wikimedia.org/wikipedia/commons/e/ed/Scratch_cat_large.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    padding-top: 5vh;
-}
 
+}
 
 div.container {
     position: relative;
-    min-height: 100%;
 }
 
 
@@ -55,8 +48,4 @@ div.splashtext2{
     margin-top: 1em;
     font-size: 1000%;
     line-height: 100%;
-}
-
-.games span {
-    text-align: center;
 }
